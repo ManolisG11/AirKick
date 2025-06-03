@@ -4,7 +4,7 @@
 > ⚠️ **For educational and authorized testing only!**
 
 ![AirKick Logo](https://img.shields.io/badge/built%20with-ESP32-blue?style=flat-square)
-![MIT License](https://img.shields.io/github/license/yourusername/airkick?style=flat-square)
+![MIT License](https://img.shields.io/github/license/manolisg11/AirKick?style=flat-square)
 
 ---
 
